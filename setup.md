@@ -72,6 +72,10 @@ install.packages('ggmap')
 install.packages('sp')
 install.packages('raster')
 
+#Additional packages for the basic animation lesson.
+install.packages('sf')
+install.packages('gganimate')
+
 ```
 
 # Dataset and Code
